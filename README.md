@@ -26,17 +26,17 @@ chmod +x install.sh
 
 ##### navigation
 
-alt + h - left
-alt + j - up
-alt + k - down
-alt + l - right
+alt + h - left<br>
+alt + j - up<br>
+alt + k - down<br>
+alt + l - right<br>
 
 ##### resizing
 
-alt + shift + h
-alt + shift + j
-alt + shift + k
-alt + shift + l
+alt + shift + h<br>
+alt + shift + j<br>
+alt + shift + k<br>
+alt + shift + l<br>
 
 ##### menu
 
@@ -44,7 +44,7 @@ alt + shift + l
 
 ##### resurrect
 
-[prefix] + Ctrl-s - save
+[prefix] + Ctrl-s - save<br>
 [prefix] + Ctrl-r - restore
 
 #### plugins
