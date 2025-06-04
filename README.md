@@ -1,7 +1,6 @@
 # My Dotfiles
 
-> [!Todo]
->
+#### Todo
 > - [ ] kitty config
 > - [ ] hyprland config
 > - [ ] .zshrc
