@@ -9,9 +9,17 @@
 > - [ ] i3 config
 > - [ ] rofi
 > - [ ] neovim 
-> - [ ] finish migration script
+> - [ ] finish migration script 
+> - [ ] fix .zshrc  
 
-## Setup
+
+### Required 
+jq<br>  
+bc<br> 
+fzf<br> 
+git<br>
+
+## Setup 
 
 ```Bash
 gnu stow .
