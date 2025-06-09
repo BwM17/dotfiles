@@ -5,6 +5,19 @@
 TPM_DIR="$HOME/.tmux/plugins/tpm"
 
 
+#[Section] FONTS  
+mkdir JetBrainsMono
+cd JetBrainsMono
+wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/JetBrainsMono.zip  
+unzip JetBrainsMono.zip   
+rm *.md *.txt *.zip
+cd ..
+mv JetBrainsMono /usr/share/fonts
+fc-cache -f -v
+
+
+
+
 #[Section] TMUX 
 
 if [ -d "$TPM_DIR" ]; then

@@ -8,7 +8,8 @@
 > - [ ] starship
 > - [ ] i3 config
 > - [ ] rofi
-> - [ ] neovim
+> - [ ] neovim 
+> - [ ] finish migration script
 
 ## Setup
 
@@ -16,7 +17,18 @@
 gnu stow .
 chmod +x install.sh
 ./install.sh
-```
+``` 
+
+### ZSH 
+
+## navigation  
+[zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode)
+
+
+## fuzzy finder
+ctrl + r<br>
+
+
 
 ### Tmux
 
@@ -64,5 +76,10 @@ To manually install the plugin manager run
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-**install plugins**
-[prefix] + shift + i
+**install plugins** 
+
+```bash
+tmux source-file ~/.tmux.conf 
+```
+
+In side tmux press *[prefix] + shift + i*
