@@ -27,15 +27,16 @@ chmod +x install.sh
 
 # ZSH 
 
-### navigation   
+### Navigation   
 Navigation is done by using vim keys: <br> 
 [zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) 
 
-### Search history
-ctrl + r<br> 
+### Keybinds 
+To find a specific entry in history file: <br>
+ctrl + r<br>  
 
-### Completions 
-press tab and navigate with tab through the suggestion
+For Suggestions<br> 
+press [TAB] and navigate with [TAB] through the suggestion
 
 
 # Tmux 
