@@ -15,7 +15,8 @@
 jq<br>  
 bc<br> 
 fzf<br> 
-git<br>
+git<br> 
+yazi<br>
 
 # Setup 
 
