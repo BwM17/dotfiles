@@ -7,7 +7,8 @@
 > - [x] tmux
 > - [ ] starship
 > - [ ] rofi
-> - [ ] neovim 
+> - [ ] neovim
+> - [ ] nevim Docs
 > - [ ] finish migration script 
 
 
@@ -25,8 +26,11 @@ gnu stow .
 chmod +x install.sh
 ./install.sh
 ``` 
+# Neovim
+##### WIP will be added soon
 
-# ZSH 
+
+# ZSH  
 
 ### Navigation   
 Navigation is done by using vim keys: <br> 
