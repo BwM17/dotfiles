@@ -3,14 +3,12 @@
 #### Todo
 > - [ ] kitty config
 > - [ ] hyprland config
-> - [ ] .zshrc
-> - [ ] .bashrc
+> - [x] .zshrc 
+> - [x] tmux
 > - [ ] starship
-> - [ ] i3 config
 > - [ ] rofi
 > - [ ] neovim 
 > - [ ] finish migration script 
-> - [ ] fix .zshrc  
 
 
 ### Required 
@@ -19,7 +17,7 @@ bc<br>
 fzf<br> 
 git<br>
 
-## Setup 
+# Setup 
 
 ```Bash
 gnu stow .
@@ -27,18 +25,20 @@ chmod +x install.sh
 ./install.sh
 ``` 
 
-### ZSH 
+# ZSH 
 
-## navigation  
-[zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode)
+### navigation   
+Navigation is done by using vim keys: <br> 
+[zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) 
+
+### Search history
+ctrl + r<br> 
+
+### Completions 
+press tab and navigate with tab through the suggestion
 
 
-## fuzzy finder
-ctrl + r<br>
-
-
-
-### Tmux
+# Tmux 
 
 [prefix] = ctrl + b
 
