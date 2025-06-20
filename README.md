@@ -12,7 +12,8 @@
 > - [x] finish migration script  
 > - [ ] finish swaync 
 > - [ ] eww stacking, widgets 
-> - [ ] install script
+> - [ ] install script 
+> - [ ] banana Cursor, fonts, icons ...
 
 ### Required 
 jq<br>  
