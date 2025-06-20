@@ -1,0 +1,30 @@
+.player-bx {
+  background-color: $background-alt;
+  border-radius: 0.45rem; 
+  margin: 0 0.35rem;
+}
+
+.spotify-icon-ctn {
+  background-color: $color_green;
+  padding: 0 0.35rem;
+  border-radius: 0.45rem 0 0 0.45rem;
+}
+
+
+.player-btn-bx {
+  font-size: 22px;
+  padding: 0 0.7rem 0 0.7rem;
+  color: $overlay;
+}
+
+.player-title {
+  font-size: 16px;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-weight: bolder;
+  color: $foreground;
+} 
+
+.player-btn {
+  color: $foreground;
+}

@@ -1,0 +1,18 @@
+2025/02/16-11:41:40.407 8ca Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/16-11:41:40.407 8ca Recovering log #10
+2025/02/16-11:41:40.409 8ca Reusing old log /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000010.log 
+2025/02/16-11:43:15.567 8ca Compacting 1@1 + 1@2 files
+2025/02/16-11:43:15.578 8ca Generated table #13@1: 52 keys, 16014 bytes
+2025/02/16-11:43:15.578 8ca Compacted 1@1 + 1@2 files => 16014 bytes
+2025/02/16-11:43:15.580 8ca compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/16-11:43:15.580 8ca Delete type=2 #11
+2025/02/16-11:43:15.580 8ca Delete type=2 #8
+2025/02/16-12:21:59.721 8cb Level-0 table #15: started
+2025/02/16-12:21:59.739 8cb Level-0 table #15: 2807130 bytes OK
+2025/02/16-12:21:59.742 8cb Delete type=0 #10
+2025/02/16-12:31:11.721 8ca Compacting 1@1 + 1@2 files
+2025/02/16-12:31:11.730 8ca Generated table #16@1: 53 keys, 17768 bytes
+2025/02/16-12:31:11.730 8ca Compacted 1@1 + 1@2 files => 17768 bytes
+2025/02/16-12:31:11.732 8ca compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/16-12:31:11.732 8ca Delete type=2 #15
+2025/02/16-12:31:11.733 8ca Delete type=2 #13

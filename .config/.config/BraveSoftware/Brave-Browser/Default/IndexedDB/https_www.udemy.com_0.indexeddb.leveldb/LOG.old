@@ -1,0 +1,7 @@
+2025/02/08-23:48:36.973 93e Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.udemy.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/08-23:48:36.973 93e Recovering log #3
+2025/02/08-23:48:36.973 93e Reusing old log /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.udemy.com_0.indexeddb.leveldb/000003.log 
+2025/02/08-23:50:41.829 93f Level-0 table #5: started
+2025/02/08-23:50:41.831 93f Level-0 table #5: 4759 bytes OK
+2025/02/08-23:50:41.833 93f Delete type=0 #3
+2025/02/08-23:50:41.833 93f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

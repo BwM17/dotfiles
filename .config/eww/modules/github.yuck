@@ -1,0 +1,16 @@
+(defwidget github[] 
+  (box 
+    :class "github-bx"
+    :orientation "h" 
+    (image
+      :class "github-icon" 
+      :path "./src/icons/github.svg" 
+      :image-height 25
+      :image-width 25
+    ) 
+    (label 
+      :class "github-active" 
+      :text docker
+    )
+  )
+)

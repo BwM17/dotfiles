@@ -1,0 +1,7 @@
+2025/02/22-15:35:13.268 4050 Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_blog.berrybase.de_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/22-15:35:13.268 4050 Recovering log #4
+2025/02/22-15:35:13.269 4050 Reusing old log /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_blog.berrybase.de_0.indexeddb.leveldb/000004.log 
+2025/02/22-15:35:42.955 4050 Level-0 table #8: started
+2025/02/22-15:35:42.957 4050 Level-0 table #8: 571 bytes OK
+2025/02/22-15:35:42.959 4050 Delete type=0 #4
+2025/02/22-15:35:42.959 4050 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

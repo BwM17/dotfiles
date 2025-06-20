@@ -1,0 +1,36 @@
+scale trough {
+  all: unset;
+  background-color: $background;
+  border-radius: 50px;
+  min-height: 5px;
+  min-width: 100px;
+  margin-left: 10px;
+}
+
+scale trough highlight {
+  all: unset;
+  background-color: $color_blue;
+  border-radius: 10px;
+}
+
+.slider_outer {
+  margin: 0 0.35rem;
+}
+
+.vol-icon {
+  padding: 0.35rem;
+  background-color: $color_yellow;
+  border-radius: 0.45rem 0rem 0rem 0.45rem;
+}
+
+.vol-bx {
+  background-color: $background-alt;
+  border-radius: 0.45rem;
+  margin: 0 0.35rem;
+}
+
+.vol_per {
+  padding: 0 0.35rem;
+  font-weight: bolder;
+  font-size: 15px;
+}

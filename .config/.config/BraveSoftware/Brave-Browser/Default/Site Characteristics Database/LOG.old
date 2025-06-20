@@ -1,0 +1,5 @@
+2025/06/19-15:31:50.729 161d Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/MANIFEST-000001
+2025/06/19-15:31:50.729 161d Recovering log #3
+2025/06/19-15:31:50.733 161d (ignoring error) /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/000003.log: dropping 1 bytes; Corruption: missing start of fragmented record(2)
+2025/06/19-15:31:50.733 161d (ignoring error) /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/000003.log: dropping 51 bytes; Corruption: missing start of fragmented record(2)
+2025/06/19-15:31:50.733 161d Reusing old log /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/000003.log 

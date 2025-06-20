@@ -1,0 +1,19 @@
+2025-03-20T20:03:00.974Z - error: [ui] Error getting token for 'GitHub - https://api.github.com'. Skipping.
+Error: The name is not activatable
+2025-03-20T20:03:00.982Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-20T20:03:01.293Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.6-arch1-1)
+2025-03-20T20:03:01.293Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-20T20:03:01.796Z - info: [ui] Stats reported.
+2025-03-20T20:03:10.132Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-03-20T20:03:10.135Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=00ab4d16-48ab-4543-be49-4e5f40b6893b
+2025-03-20T20:03:10.135Z - info: [ui] [SignInStore] account resolved
+2025-03-20T20:03:15.739Z - info: [main] Received possible protocol arguments: 3
+2025-03-20T20:03:15.739Z - info: [main] Processing protocol url
+2025-03-20T20:03:15.820Z - info: [main] Received possible protocol arguments: 2
+2025-03-20T20:03:15.824Z - info: [main] Processing protocol url
+2025-03-20T20:03:16.580Z - info: [ui] [AppStore] adding account BwM17 (Berny) to store
+2025-03-20T20:03:17.017Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-20T20:03:18.910Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 11.161s)
+2025-03-20T20:03:19.223Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-20T20:03:21.691Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-20T20:03:22.468Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store

@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+EWW=eww
+
+if [ -f /tmp/$1 ]; then
+    rm /tmp/$1 
+    $EWW close $1
+
+else 
+    touch /tmp/$1 
+    $EWW open $1
+fi
+
+
+
+

@@ -1,0 +1,9 @@
+2025/06/04-23:25:02.550 2856a Reusing MANIFEST /home/bluelotus/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/04-23:25:02.551 2856a Recovering log #83
+2025/06/04-23:25:02.551 2856a Reusing old log /home/bluelotus/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000083.log 
+2025/06/04-23:25:02.782 2856a Compacting 1@1 + 1@2 files
+2025/06/04-23:25:02.793 2856a Generated table #86@1: 2149 keys, 318943 bytes
+2025/06/04-23:25:02.793 2856a Compacted 1@1 + 1@2 files => 318943 bytes
+2025/06/04-23:25:02.795 2856a compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/04-23:25:02.795 2856a Delete type=2 #84
+2025/06/04-23:25:02.795 2856a Delete type=2 #81

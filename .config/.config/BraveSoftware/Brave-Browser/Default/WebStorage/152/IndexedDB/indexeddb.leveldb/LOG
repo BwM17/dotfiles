@@ -1,0 +1,6 @@
+2025/02/15-22:38:13.984 822 Creating DB /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/WebStorage/152/IndexedDB/indexeddb.leveldb since it was missing.
+2025/02/15-22:38:13.994 822 Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/WebStorage/152/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/02/15-22:48:30.294 823 Level-0 table #5: started
+2025/02/15-22:48:30.296 823 Level-0 table #5: 9945 bytes OK
+2025/02/15-22:48:30.298 823 Delete type=0 #3
+2025/02/15-22:48:30.298 823 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

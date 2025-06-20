@@ -1,0 +1,6 @@
+2025/02/16-13:16:13.383 8ca Creating DB /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.studyraid.com_0.indexeddb.leveldb since it was missing.
+2025/02/16-13:16:13.388 8ca Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.studyraid.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/16-13:16:13.399 8cc Level-0 table #5: started
+2025/02/16-13:16:13.401 8cc Level-0 table #5: 1324 bytes OK
+2025/02/16-13:16:13.405 8cc Delete type=0 #3
+2025/02/16-13:16:13.405 8ca Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,21 @@
+2025/01/16-00:26:05.563 30f Reusing MANIFEST /home/redltous/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_wokwi.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/16-00:26:05.564 30f Recovering log #29
+2025/01/16-00:26:05.564 30f Reusing old log /home/redltous/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_wokwi.com_0.indexeddb.leveldb/000029.log 
+2025/01/16-00:26:05.564 30f Delete type=2 #27
+2025/01/16-00:26:05.611 310 Level-0 table #34: started
+2025/01/16-00:26:05.612 310 Level-0 table #34: 6183 bytes OK
+2025/01/16-00:26:05.615 310 Delete type=0 #29
+2025/01/16-00:26:05.615 310 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 540 : 1
+2025/01/16-00:26:05.615 310 Compacting 1@0 + 1@1 files
+2025/01/16-00:26:05.624 310 Generated table #35@0: 63 keys, 3498 bytes
+2025/01/16-00:26:05.624 310 Compacted 1@0 + 1@1 files => 3498 bytes
+2025/01/16-00:26:05.626 310 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/16-00:26:05.626 310 Delete type=2 #34
+2025/01/16-00:26:05.626 310 Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 540 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/16-00:26:55.996 310 Compacting 1@1 + 1@2 files
+2025/01/16-00:26:56.003 310 Generated table #36@1: 40 keys, 3301 bytes
+2025/01/16-00:26:56.003 310 Compacted 1@1 + 1@2 files => 3301 bytes
+2025/01/16-00:26:56.005 310 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/16-00:26:56.005 310 Delete type=2 #31
+2025/01/16-00:26:56.005 310 Delete type=2 #18
+2025/01/16-00:26:56.005 310 Delete type=2 #35

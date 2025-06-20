@@ -1,0 +1,12 @@
+yazi
+fzf
+jq 
+socat
+swaync
+hyprland
+hyprshot
+hyprlock
+hyprpaper
+rofi
+playerctl
+

@@ -1,0 +1,6 @@
+2025/05/21-23:04:21.204 920 Creating DB /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_de.pinterest.com_0.indexeddb.leveldb since it was missing.
+2025/05/21-23:04:21.209 920 Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_de.pinterest.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/21-23:04:24.877 921 Level-0 table #5: started
+2025/05/21-23:04:24.879 921 Level-0 table #5: 12528 bytes OK
+2025/05/21-23:04:24.881 921 Delete type=0 #3
+2025/05/21-23:04:24.881 921 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

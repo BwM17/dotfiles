@@ -1,4 +1,8 @@
 
+#Init Completion System
+autoload -Uz compinit && compinit
+
+
 #Shell Integrations
 eval "$(starship init zsh)"   
 eval "$(fzf --zsh)"
@@ -42,7 +46,7 @@ setopt hist_find_no_dups
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
 zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS} 
 zstyle ':completion:*' menu no 
-zstyle ':completion:cd:*' fzf-preview 'lsd --color $(realpath)'
+zstyle ':completion:cd:*' fzf-preview 'ls --color $(realpath)'
 
 
 #Aliases

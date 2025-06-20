@@ -1,0 +1,6 @@
+2025/06/19-17:10:43.455 4 Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/06/19-17:10:43.462 4 Recovering log #3189
+2025/06/19-17:10:43.463 4 Reusing old log /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/003189.log 
+2025/06/19-17:10:57.775 5 Level-0 table #3193: started
+2025/06/19-17:10:57.782 5 Level-0 table #3193: 34655 bytes OK
+2025/06/19-17:10:57.785 5 Delete type=0 #3189

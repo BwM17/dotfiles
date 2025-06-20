@@ -1,0 +1,16 @@
+
+.github-bx { 
+  background-color: $background-alt; 
+  margin: 0 0.35rem; 
+  border-radius: 0.45rem;
+}  
+
+.github-icon { 
+  background-color: $foreground;   
+  padding: 0 0.3rem;
+  border-radius: 0.45rem 0 0 0.45rem; 
+} 
+
+.github-active {
+  font-weight: bolder;
+}

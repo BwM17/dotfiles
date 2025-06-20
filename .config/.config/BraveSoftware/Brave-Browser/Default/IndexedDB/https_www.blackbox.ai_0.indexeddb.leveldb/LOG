@@ -1,0 +1,6 @@
+2025/01/24-19:38:19.961 5b4 Creating DB /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.blackbox.ai_0.indexeddb.leveldb since it was missing.
+2025/01/24-19:38:19.966 5b4 Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.blackbox.ai_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/24-19:38:19.972 5b6 Level-0 table #5: started
+2025/01/24-19:38:19.975 5b6 Level-0 table #5: 681 bytes OK
+2025/01/24-19:38:19.978 5b6 Delete type=0 #3
+2025/01/24-19:38:19.978 5b4 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

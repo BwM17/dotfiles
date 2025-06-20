@@ -1,0 +1,67 @@
+2025-03-07T20:35:27.860Z - info: [ui] [AppStore] loading 0 repositories from store
+2025-03-07T20:35:27.874Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-03-07T20:35:27.888Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.4-arch1-1)
+2025-03-07T20:35:27.902Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-07T20:35:27.902Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-03-07T20:35:27.909Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-03-07T20:35:28.217Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-03-07T20:35:28.305Z - info: [ui] Opt in reported.
+2025-03-07T20:35:30.234Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2025-03-07T20:35:30.234Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-03-07T20:35:30.237Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=402c2df7-d0a8-4cb7-b066-e800d3ef9a48
+2025-03-07T20:35:30.237Z - info: [ui] [SignInStore] account resolved
+2025-03-07T20:35:30.237Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2025-03-07T20:35:30.904Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-03-07T20:35:38.975Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-03-07T20:35:39.226Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-03-07T20:35:45.763Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-03-07T20:35:46.262Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-03-07T20:35:47.696Z - info: [main] Received possible protocol arguments: 3
+2025-03-07T20:35:47.696Z - info: [main] Processing protocol url
+2025-03-07T20:35:47.713Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-03-07T20:35:47.740Z - info: [main] Received possible protocol arguments: 2
+2025-03-07T20:35:47.744Z - info: [main] Processing protocol url
+2025-03-07T20:35:47.797Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-03-07T20:35:48.683Z - info: [ui] [AppStore] adding account BwM17 (Berny) to store
+2025-03-07T20:35:48.698Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2025-03-07T20:35:48.724Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-03-07T20:35:49.136Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-07T20:35:49.165Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-03-07T20:36:17.134Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-07T20:36:19.795Z - info: [ui] Executing clone: git -c init.defaultBranch=main clone --recursive --progress -- https://github.com/BwM17/second-Brain.git /home/bluelotus/Notes/GitHub/second-Brain (took 2.949s)
+2025-03-07T20:36:19.809Z - info: [ui] [AppStore] adding repository at /home/bluelotus/Notes/GitHub/second-Brain to store
+2025-03-07T20:37:16.314Z - info: [ui] [AppStore] loading 1 repositories from store
+2025-03-07T20:37:16.316Z - info: [ui] [AppStore] found account: BwM17 (Berny)
+2025-03-07T20:37:16.338Z - info: [ui] [BranchPruner] Last prune took place 1 minute ago - skipping
+2025-03-07T20:37:16.388Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.4-arch1-1)
+2025-03-07T20:37:16.389Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-07T20:37:16.893Z - info: [ui] Stats reported.
+2025-03-07T20:37:18.827Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-07T20:37:18.968Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-07T20:37:21.603Z - info: [ui] Executing clone: git -c init.defaultBranch=main clone --recursive --progress -- https://github.com/BwM17/second-Brain.git /home/bluelotus/Notes/GitHub/second-Brain (took 2.915s)
+2025-03-07T20:37:21.657Z - info: [ui] [BranchPruner] Last prune took place 1 minute ago - skipping
+2025-03-07T20:37:57.593Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-07T20:38:00.313Z - info: [ui] Executing clone: git -c init.defaultBranch=main clone --recursive --progress -- https://github.com/BwM17/second-Brain.git /home/bluelotus/Notes/second-Brain (took 3.015s)
+2025-03-07T20:38:00.328Z - info: [ui] [AppStore] adding repository at /home/bluelotus/Notes/second-Brain to store
+2025-03-07T20:38:00.415Z - info: [ui] [BranchPruner] Last prune took place 2 minutes ago - skipping
+2025-03-07T20:38:00.416Z - info: [ui] [BranchPruner] Last prune took place 2 minutes ago - skipping
+2025-03-07T20:47:25.558Z - info: [ui] [AppStore] loading 1 repositories from store
+2025-03-07T20:47:25.561Z - info: [ui] [AppStore] found account: BwM17 (Berny)
+2025-03-07T20:47:25.583Z - info: [ui] [BranchPruner] Last prune took place 11 minutes ago - skipping
+2025-03-07T20:47:25.658Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.4-arch1-1)
+2025-03-07T20:47:25.659Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-07T20:47:26.106Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-07T20:47:40.716Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-07T20:47:41.355Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-07T20:48:08.097Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-07T20:48:08.765Z - info: [ui] [AppStore] adding repository at /home/bluelotus/Devel/Projects/Complib to store
+2025-03-07T20:48:08.835Z - info: [ui] [BranchPruner] Last prune took place 12 minutes ago - skipping
+2025-03-07T20:48:09.032Z - info: [ui] [BranchPruner] No branches to prune.
+2025-03-07T20:49:40.826Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-07T20:49:41.403Z - info: [ui] [AppStore] adding repository at /home/bluelotus/Devel/Projects/cexpress to store
+2025-03-07T20:49:41.471Z - info: [ui] [BranchPruner] Last prune took place 2 minutes ago - skipping
+2025-03-07T20:49:41.685Z - info: [ui] [BranchPruner] No branches to prune.
+2025-03-07T20:49:41.685Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-07T20:49:42.340Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-07T20:54:56.991Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-07T20:54:57.563Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store

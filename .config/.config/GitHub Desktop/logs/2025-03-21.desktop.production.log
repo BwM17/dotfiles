@@ -1,0 +1,43 @@
+2025-03-21T19:24:24.447Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-21T19:24:24.449Z - info: [ui] [AppStore] found account: BwM17 (Berny)
+2025-03-21T19:24:24.472Z - info: [ui] [BranchPruner] Last prune took place 23 hours ago - skipping
+2025-03-21T19:24:24.575Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.7-arch1-1)
+2025-03-21T19:24:24.576Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-21T19:24:25.054Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-21T19:24:28.578Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:24:29.415Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 1.169s)
+2025-03-21T19:24:29.669Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:24:33.085Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:24:33.603Z - error: [ui] `git -c rebase.backend=merge pull --ff --recurse-submodules --progress origin` exited with an unexpected code: 1.
+stdout:
+Updating 20ae89c..070b44a
+
+stderr:
+error: Your local changes to the following files would be overwritten by merge:
+	.obsidian/workspace.json
+	AP1/API-Index.md
+	AP1/IT/06_IT-Security.md
+Please commit your changes or stash them before you merge.
+Aborting
+
+(The error was parsed as 54: null)
+2025-03-21T19:24:36.593Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:24:37.285Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:24:39.253Z - info: [ui] [popStashEntry] a stash was popped successfully but exit code 1 reported.
+2025-03-21T19:24:39.265Z - info: [ui] [AppStore. _popStashEntry] popped stash with commit id 24b2dc1e78dd9f8efbbe365867ba63d0c409c176
+2025-03-21T19:24:41.844Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:24:42.465Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:24:52.739Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:24:53.473Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:25:10.953Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 0.8s of which 0.0s paused, total 0.8s
+2025-03-21T19:25:15.520Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:25:16.136Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:25:37.615Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:25:38.266Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:25:44.797Z - info: [ui] [Timing] Action 'create commit' for 'BwM17/second-Brain' took 0.001s
+2025-03-21T19:25:52.740Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:25:53.666Z - info: [ui] Executing push: git push origin main:main --progress (took 1.187s)
+2025-03-21T19:25:53.934Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:25:54.566Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:25:56.294Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-21T19:25:56.940Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store

@@ -1,0 +1,6 @@
+2025/05/21-09:51:51.325 11c75 Creating DB /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fiverr.com_0.indexeddb.leveldb since it was missing.
+2025/05/21-09:51:51.333 11c75 Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fiverr.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/21-09:51:53.927 11c76 Level-0 table #5: started
+2025/05/21-09:51:53.929 11c76 Level-0 table #5: 1264 bytes OK
+2025/05/21-09:51:53.933 11c76 Delete type=0 #3
+2025/05/21-09:51:53.933 11c76 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,7 @@
+2025/03/09-18:57:52.841 3e0d5 Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pomofocus.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/09-18:57:52.842 3e0d5 Recovering log #3
+2025/03/09-18:57:52.842 3e0d5 Reusing old log /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pomofocus.io_0.indexeddb.leveldb/000003.log 
+2025/03/09-20:48:20.499 3e0d5 Level-0 table #5: started
+2025/03/09-20:48:20.501 3e0d5 Level-0 table #5: 1874 bytes OK
+2025/03/09-20:48:20.503 3e0d5 Delete type=0 #3
+2025/03/09-20:48:20.503 3e0d5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,7 @@
+2025/03/25-21:13:10.996 170fe Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.starlink.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/25-21:13:10.996 170fe Recovering log #4
+2025/03/25-21:13:10.996 170fe Reusing old log /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.starlink.com_0.indexeddb.leveldb/000004.log 
+2025/03/25-21:13:11.431 170ff Level-0 table #8: started
+2025/03/25-21:13:11.433 170ff Level-0 table #8: 625 bytes OK
+2025/03/25-21:13:11.435 170ff Delete type=0 #4
+2025/03/25-21:13:11.435 170ff Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

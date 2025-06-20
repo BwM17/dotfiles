@@ -1,0 +1,15 @@
+2025/06/04-23:38:02.137 89f Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_de.pinterest.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/04-23:38:02.138 89f Recovering log #4
+2025/06/04-23:38:02.138 89f Reusing old log /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_de.pinterest.com_0.indexeddb.leveldb/000004.log 
+2025/06/04-23:38:09.000 8a0 Level-0 table #8: started
+2025/06/04-23:38:09.003 8a0 Level-0 table #8: 118676 bytes OK
+2025/06/04-23:38:09.005 8a0 Delete type=0 #4
+2025/06/04-23:38:09.005 8a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/06/04-23:38:09.005 8a0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01$\x00f\x00f\x00f\x006\x00c\x008\x004\x004\x00-\x007\x00d\x003\x003\x00-\x004\x003\x004\x00f\x00-\x00b\x005\x008\x008\x00-\x00d\x001\x00e\x009\x00a\x00c\x009\x009\x004\x003\x000\x00d' @ 1287 : 1
+2025/06/04-23:38:09.006 8a0 Compacting 1@1 + 1@2 files
+2025/06/04-23:38:09.008 8a0 Generated table #9@1: 42 keys, 3479 bytes
+2025/06/04-23:38:09.008 8a0 Compacted 1@1 + 1@2 files => 3479 bytes
+2025/06/04-23:38:09.010 8a0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/04-23:38:09.010 8a0 Delete type=2 #8
+2025/06/04-23:38:09.010 8a0 Delete type=2 #5
+2025/06/04-23:38:09.010 8a0 Manual compaction at level-1 from '\x00\x01\x01\x02\x01$\x00f\x00f\x00f\x006\x00c\x008\x004\x004\x00-\x007\x00d\x003\x003\x00-\x004\x003\x004\x00f\x00-\x00b\x005\x008\x008\x00-\x00d\x001\x00e\x009\x00a\x00c\x009\x009\x004\x003\x000\x00d' @ 1287 : 1 .. (end); will stop at (end)

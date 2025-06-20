@@ -1,16 +1,18 @@
 # My Dotfiles
 
 #### Todo
-> - [ ] kitty config
-> - [ ] hyprland config
+> - [x] kitty config
+> - [x] hyprland config  
 > - [x] .zshrc 
 > - [x] tmux
-> - [ ] starship
-> - [ ] rofi
+> - [x] starship
+> - [x] rofi
 > - [ ] neovim
 > - [ ] nevim Docs
-> - [ ] finish migration script 
-
+> - [x] finish migration script  
+> - [ ] finish swaync 
+> - [ ] eww stacking, widgets 
+> - [ ] install script
 
 ### Required 
 jq<br>  

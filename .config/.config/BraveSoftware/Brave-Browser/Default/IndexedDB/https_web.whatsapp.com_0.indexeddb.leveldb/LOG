@@ -1,0 +1,16 @@
+2025/05/16-18:44:21.715 705 Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/16-18:44:21.715 705 Recovering log #211
+2025/05/16-18:44:21.715 705 Reusing old log /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000211.log 
+2025/05/16-18:45:22.196 706 Level-0 table #220: started
+2025/05/16-18:45:22.198 706 Level-0 table #220: 1717 bytes OK
+2025/05/16-18:45:22.200 706 Delete type=0 #211
+2025/05/16-18:45:22.200 706 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/05/16-18:45:22.200 706 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x1c\x0a\x02\x03\x00\x00\x00\x00\x00\x00\x08@' @ 1051072 : 1
+2025/05/16-18:45:22.200 706 Compacting 1@1 + 1@2 files
+2025/05/16-18:45:22.226 706 Generated table #221@1: 19909 keys, 2198097 bytes
+2025/05/16-18:45:22.227 706 Generated table #222@1: 2 keys, 6192 bytes
+2025/05/16-18:45:22.227 706 Compacted 1@1 + 1@2 files => 2204289 bytes
+2025/05/16-18:45:22.230 706 compacted to: files[ 0 0 6 0 0 0 0 ]
+2025/05/16-18:45:22.230 706 Delete type=2 #220
+2025/05/16-18:45:22.230 706 Delete type=2 #213
+2025/05/16-18:45:22.230 706 Manual compaction at level-1 from '\x00\x1c\x0a\x02\x03\x00\x00\x00\x00\x00\x00\x08@' @ 1051072 : 1 .. (end); will stop at (end)

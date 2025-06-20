@@ -1,0 +1,38 @@
+2025-03-24T08:17:28.953Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-24T08:17:28.955Z - info: [ui] [AppStore] found account: BwM17 (Berny)
+2025-03-24T08:17:28.978Z - info: [ui] [BranchPruner] Last prune took place 23 hours ago - skipping
+2025-03-24T08:17:29.231Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.7-arch1-1)
+2025-03-24T08:17:29.231Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-24T08:17:29.437Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-24T08:17:38.669Z - info: [ui] Executing createCommit: git commit -F - (took 1.821s)
+2025-03-24T08:17:38.703Z - info: [ui] [Timing] Action 'create commit' for 'BwM17/second-Brain' took 1.920s
+2025-03-24T08:17:40.855Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-24T08:17:41.763Z - info: [ui] Executing push: git push origin main:main --progress (took 1.224s)
+2025-03-24T08:17:42.009Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-24T08:17:42.589Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-24T08:50:29.339Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-24T08:50:29.967Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-24T09:23:05.703Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-24T09:23:06.364Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-24T09:55:42.036Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-24T09:55:42.633Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-24T11:20:28.107Z - error: [ui] Error getting token for 'GitHub - https://api.github.com'. Skipping.
+Error: The name is not activatable
+2025-03-24T11:20:28.118Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-24T11:20:28.458Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.7-arch1-1)
+2025-03-24T11:20:28.458Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-24T11:20:28.951Z - info: [ui] Stats reported.
+2025-03-24T11:20:30.228Z - info: [ui] Executing getChangesFiles: git log b372e9bde676a5bdbf440eddcc5c73d3b377c3a4 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 1.840s)
+2025-03-24T11:20:36.356Z - info: [ui] [Timing] Action 'create commit' for 'BwM17/second-Brain' took 0.054s
+2025-03-24T11:20:40.138Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-03-24T11:20:40.141Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=f739b986-33e3-4843-b6df-ef03346be0ba
+2025-03-24T11:20:40.141Z - info: [ui] [SignInStore] account resolved
+2025-03-24T11:20:45.934Z - info: [main] Received possible protocol arguments: 3
+2025-03-24T11:20:45.934Z - info: [main] Processing protocol url
+2025-03-24T11:20:46.005Z - info: [main] Received possible protocol arguments: 2
+2025-03-24T11:20:46.008Z - info: [main] Processing protocol url
+2025-03-24T11:20:46.784Z - info: [ui] [AppStore] adding account BwM17 (Berny) to store
+2025-03-24T11:20:47.172Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-24T11:20:47.621Z - info: [ui] Executing push: git push origin main:main --progress (took 9.950s)
+2025-03-24T11:20:47.889Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-24T11:20:48.570Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store

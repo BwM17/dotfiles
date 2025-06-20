@@ -1,0 +1,72 @@
+2025/05/22-18:15:34.823 922 Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/22-18:15:34.823 922 Recovering log #3
+2025/05/22-18:15:34.825 922 Reusing old log /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000003.log 
+2025/05/22-18:16:12.536 920 Level-0 table #5: started
+2025/05/22-18:16:12.550 920 Level-0 table #5: 1133443 bytes OK
+2025/05/22-18:16:12.553 920 Delete type=0 #3
+2025/05/22-18:16:12.662 920 Level-0 table #7: started
+2025/05/22-18:16:12.676 920 Level-0 table #7: 873592 bytes OK
+2025/05/22-18:16:12.679 920 Delete type=0 #4
+2025/05/22-18:16:12.680 920 Compacting 1@1 + 1@2 files
+2025/05/22-18:16:12.709 920 Generated table #8@1: 34612 keys, 1521263 bytes
+2025/05/22-18:16:12.709 920 Compacted 1@1 + 1@2 files => 1521263 bytes
+2025/05/22-18:16:12.711 920 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/22-18:16:12.712 920 Delete type=2 #5
+2025/05/22-18:16:12.712 920 Delete type=2 #7
+2025/05/22-18:16:12.843 921 Level-0 table #10: started
+2025/05/22-18:16:12.864 921 Level-0 table #10: 927007 bytes OK
+2025/05/22-18:16:12.867 921 Delete type=0 #6
+2025/05/22-18:16:12.925 921 Compacting 1@1 + 1@2 files
+2025/05/22-18:16:12.956 921 Generated table #11@1: 21687 keys, 1293541 bytes
+2025/05/22-18:16:12.958 921 Compacted 1@1 + 1@2 files => 1293541 bytes
+2025/05/22-18:16:12.960 921 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/22-18:16:12.960 921 Delete type=2 #10
+2025/05/22-18:16:12.960 921 Delete type=2 #8
+2025/05/22-18:16:15.122 921 Level-0 table #13: started
+2025/05/22-18:16:15.145 921 Level-0 table #13: 934582 bytes OK
+2025/05/22-18:16:15.148 921 Delete type=0 #9
+2025/05/22-18:16:15.156 92c Compacting 1@1 + 1@2 files
+2025/05/22-18:16:15.184 92c Generated table #14@1: 21717 keys, 1349595 bytes
+2025/05/22-18:16:15.184 92c Compacted 1@1 + 1@2 files => 1349595 bytes
+2025/05/22-18:16:15.187 92c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/22-18:16:16.512 920 Level-0 table #16: started
+2025/05/22-18:16:16.535 920 Level-0 table #16: 919207 bytes OK
+2025/05/22-18:16:16.538 920 Delete type=2 #11
+2025/05/22-18:16:16.538 920 Delete type=0 #12
+2025/05/22-18:16:16.538 920 Delete type=2 #13
+2025/05/22-18:16:16.546 922 Compacting 1@1 + 1@2 files
+2025/05/22-18:16:16.573 922 Generated table #17@1: 21700 keys, 1325376 bytes
+2025/05/22-18:16:16.573 922 Compacted 1@1 + 1@2 files => 1325376 bytes
+2025/05/22-18:16:16.575 922 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/22-18:16:18.345 92c Level-0 table #19: started
+2025/05/22-18:16:18.362 92c Level-0 table #19: 921780 bytes OK
+2025/05/22-18:16:18.365 92c Delete type=2 #14
+2025/05/22-18:16:18.365 92c Delete type=2 #16
+2025/05/22-18:16:18.365 92c Delete type=0 #15
+2025/05/22-18:16:18.441 920 Compacting 1@1 + 1@2 files
+2025/05/22-18:16:18.469 920 Generated table #20@1: 21697 keys, 1306881 bytes
+2025/05/22-18:16:18.469 920 Compacted 1@1 + 1@2 files => 1306881 bytes
+2025/05/22-18:16:18.472 920 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/22-18:16:36.790 921 Level-0 table #22: started
+2025/05/22-18:16:36.808 921 Level-0 table #22: 1166149 bytes OK
+2025/05/22-18:16:36.811 921 Delete type=0 #18
+2025/05/22-18:16:36.811 921 Delete type=2 #19
+2025/05/22-18:16:36.811 921 Delete type=2 #17
+2025/05/22-18:16:41.135 921 Compacting 1@1 + 1@2 files
+2025/05/22-18:16:41.164 921 Generated table #23@1: 21697 keys, 1351196 bytes
+2025/05/22-18:16:41.164 921 Compacted 1@1 + 1@2 files => 1351196 bytes
+2025/05/22-18:16:41.166 921 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/22-18:16:41.166 921 Delete type=2 #20
+2025/05/22-18:16:41.167 921 Delete type=2 #22
+2025/05/22-18:17:12.747 921 Level-0 table #25: started
+2025/05/22-18:17:12.753 921 Level-0 table #25: 619466 bytes OK
+2025/05/22-18:17:12.755 921 Delete type=0 #21
+2025/05/22-18:17:12.755 921 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/05/22-18:17:12.755 921 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x011\x00U\x00A\x00F\x001\x00D\x008\x00g\x00E\x00w\x00F\x00I\x00-\x00B\x00A\x00F\x001\x00D\x00z\x00N\x00F\x00W\x00c\x00o\x00-\x00o\x00f\x00f\x00l\x00i\x00n\x00e\x00_\x00d\x00o\x00c\x00u\x00m\x00e\x00n\x00t\x00_\x00r\x00e\x00s\x00p\x00o\x00n\x00s\x00e' @ 202922 : 1
+2025/05/22-18:17:12.755 921 Compacting 1@1 + 1@2 files
+2025/05/22-18:17:12.775 921 Generated table #26@1: 21705 keys, 1358487 bytes
+2025/05/22-18:17:12.775 921 Compacted 1@1 + 1@2 files => 1358487 bytes
+2025/05/22-18:17:12.777 921 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/22-18:17:12.777 921 Delete type=2 #23
+2025/05/22-18:17:12.777 921 Delete type=2 #25
+2025/05/22-18:17:12.778 921 Manual compaction at level-1 from '\x00\x03\x01\x02\x011\x00U\x00A\x00F\x001\x00D\x008\x00g\x00E\x00w\x00F\x00I\x00-\x00B\x00A\x00F\x001\x00D\x00z\x00N\x00F\x00W\x00c\x00o\x00-\x00o\x00f\x00f\x00l\x00i\x00n\x00e\x00_\x00d\x00o\x00c\x00u\x00m\x00e\x00n\x00t\x00_\x00r\x00e\x00s\x00p\x00o\x00n\x00s\x00e' @ 202922 : 1 .. (end); will stop at (end)

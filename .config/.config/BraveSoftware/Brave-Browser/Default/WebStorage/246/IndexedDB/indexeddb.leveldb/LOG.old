@@ -1,0 +1,14 @@
+2025/03/23-09:38:22.147 c76 Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/WebStorage/246/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/03/23-09:38:22.147 c76 Recovering log #10
+2025/03/23-09:38:22.148 c76 Reusing old log /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/WebStorage/246/IndexedDB/indexeddb.leveldb/000010.log 
+2025/03/23-09:38:22.148 c76 Delete type=2 #8
+2025/03/23-09:38:22.376 c7f Level-0 table #15: started
+2025/03/23-09:38:22.378 c7f Level-0 table #15: 20052 bytes OK
+2025/03/23-09:38:22.381 c7f Delete type=0 #10
+2025/03/23-09:38:22.381 c76 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 1255 : 1
+2025/03/23-09:38:22.381 c76 Compacting 1@0 + 1@1 files
+2025/03/23-09:38:22.383 c76 Generated table #16@0: 227 keys, 20631 bytes
+2025/03/23-09:38:22.383 c76 Compacted 1@0 + 1@1 files => 20631 bytes
+2025/03/23-09:38:22.385 c76 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/23-09:38:22.386 c76 Delete type=2 #15
+2025/03/23-09:38:22.386 c76 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 1255 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

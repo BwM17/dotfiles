@@ -1,0 +1,10 @@
+2025/05/19-22:30:42.835 1c6e Creating DB /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dreamstime.com_0.indexeddb.leveldb since it was missing.
+2025/05/19-22:30:42.840 1c6e Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dreamstime.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/19-22:30:42.847 1c6e Level-0 table #5: started
+2025/05/19-22:30:42.850 1c6e Level-0 table #5: 676 bytes OK
+2025/05/19-22:30:42.853 1c6e Delete type=0 #3
+2025/05/19-22:30:42.853 1c6e Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/19-22:30:54.035 1c6e Level-0 table #7: started
+2025/05/19-22:30:54.037 1c6e Level-0 table #7: 1682 bytes OK
+2025/05/19-22:30:54.039 1c6e Delete type=0 #4
+2025/05/19-22:30:54.039 1c6e Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

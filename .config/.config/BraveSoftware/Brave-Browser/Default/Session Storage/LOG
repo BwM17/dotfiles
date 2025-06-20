@@ -1,0 +1,15 @@
+2025/06/19-17:10:44.071 4 Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2025/06/19-17:10:44.071 4 Recovering log #1011
+2025/06/19-17:10:44.072 4 Reusing old log /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/Session Storage/001011.log 
+2025/06/19-17:11:51.120 4 Level-0 table #1015: started
+2025/06/19-17:11:51.127 4 Level-0 table #1015: 24335 bytes OK
+2025/06/19-17:11:51.129 4 Delete type=0 #1011
+2025/06/19-17:11:51.130 4 Compacting 4@0 + 1@1 files
+2025/06/19-17:11:51.142 4 Generated table #1016@0: 26320 keys, 483155 bytes
+2025/06/19-17:11:51.142 4 Compacted 4@0 + 1@1 files => 483155 bytes
+2025/06/19-17:11:51.144 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/19-17:11:51.145 4 Delete type=2 #1010
+2025/06/19-17:11:51.145 4 Delete type=2 #1004
+2025/06/19-17:11:51.145 4 Delete type=2 #1012
+2025/06/19-17:11:51.145 4 Delete type=2 #1007
+2025/06/19-17:11:51.145 4 Delete type=2 #1015

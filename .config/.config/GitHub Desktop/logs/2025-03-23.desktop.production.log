@@ -1,0 +1,48 @@
+2025-03-23T09:35:09.503Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-23T09:35:09.506Z - info: [ui] [AppStore] found account: BwM17 (Berny)
+2025-03-23T09:35:09.863Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.7-arch1-1)
+2025-03-23T09:35:09.863Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-23T09:35:10.028Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-23T09:35:10.302Z - info: [ui] Stats reported.
+2025-03-23T09:35:22.799Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-23T09:35:23.429Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-23T09:35:49.476Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-23T09:35:50.120Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-23T09:37:13.712Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-23T09:37:24.203Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 3 repositories took 1.7s of which 0.0s paused, total 1.7s
+2025-03-23T09:38:40.084Z - info: [ui] Executing clone: git -c init.defaultBranch=main clone --recursive --progress -- https://github.com/BwM17/second-Brain.git /home/bluelotus/Notes/second-Brain (took 86.660s)
+2025-03-23T09:38:40.181Z - info: [ui] [BranchPruner] Last prune took place 4 minutes ago - skipping
+2025-03-23T09:38:40.472Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-23T09:38:41.070Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-23T19:55:25.554Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-23T19:55:25.556Z - info: [ui] [AppStore] found account: BwM17 (Berny)
+2025-03-23T19:55:25.579Z - info: [ui] [BranchPruner] Last prune took place 10 hours ago - skipping
+2025-03-23T19:55:25.906Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.7-arch1-1)
+2025-03-23T19:55:25.907Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-23T19:55:26.050Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-23T19:55:42.397Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-23T19:55:43.020Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-23T19:57:49.412Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 0.6s of which 0.0s paused, total 0.6s
+2025-03-23T20:07:34.786Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-23T20:07:34.789Z - info: [ui] [AppStore] found account: BwM17 (Berny)
+2025-03-23T20:07:34.810Z - info: [ui] [BranchPruner] Last prune took place 11 hours ago - skipping
+2025-03-23T20:07:34.860Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.7-arch1-1)
+2025-03-23T20:07:34.861Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-23T20:07:35.249Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-23T20:07:42.562Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-23T20:08:03.063Z - info: [ui] Executing clone: git -c init.defaultBranch=main clone --recursive --progress -- https://github.com/BwM17/second-Brain.git /home/bluelotus/Notes/second-Brain (took 20.776s)
+2025-03-23T20:08:03.136Z - info: [ui] [BranchPruner] Last prune took place 11 hours ago - skipping
+2025-03-23T20:10:58.409Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-23T20:10:58.412Z - info: [ui] [AppStore] found account: BwM17 (Berny)
+2025-03-23T20:10:58.438Z - info: [ui] [BranchPruner] Last prune took place 11 hours ago - skipping
+2025-03-23T20:10:58.670Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.7-arch1-1)
+2025-03-23T20:10:58.670Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-23T20:10:58.931Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-23T20:11:07.722Z - info: [ui] [Timing] Action 'create commit' for 'BwM17/second-Brain' took 0.090s
+2025-03-23T20:11:09.533Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-23T20:11:10.335Z - info: [ui] Executing push: git push origin main:main --progress (took 1.132s)
+2025-03-23T20:11:10.583Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-23T20:11:11.167Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-23T20:42:59.280Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-23T20:42:59.885Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-23T20:51:15.461Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 0.7s of which 0.0s paused, total 0.7s

@@ -1,0 +1,73 @@
+2025-03-08T10:18:37.178Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-08T10:18:37.181Z - info: [ui] [AppStore] found account: BwM17 (Berny)
+2025-03-08T10:18:37.203Z - info: [ui] [BranchPruner] Last prune took place 13 hours ago - skipping
+2025-03-08T10:18:37.386Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.5-arch1-1)
+2025-03-08T10:18:37.386Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-08T10:18:37.716Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-08T10:18:40.985Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 1.1s of which 0.0s paused, total 1.1s
+2025-03-08T10:18:41.410Z - info: [ui] [BranchPruner] Last prune took place 14 hours ago - skipping
+2025-03-08T10:18:41.700Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T10:18:42.312Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T10:18:44.180Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T10:18:44.775Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T10:18:53.161Z - info: [ui] [Timing] Action 'create commit' for 'BwM17/second-Brain' took 0.380s
+2025-03-08T10:18:54.725Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T10:18:55.528Z - info: [ui] Executing push: git push origin main:main --progress (took 1.104s)
+2025-03-08T10:18:55.773Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T10:18:56.366Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T10:49:39.466Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T10:49:40.072Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T11:20:37.058Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T11:20:37.683Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T11:40:29.914Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 0.8s of which 0.0s paused, total 0.8s
+2025-03-08T11:40:33.967Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T11:40:34.603Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T11:40:42.882Z - info: [ui] [Timing] Action 'create commit' for 'BwM17/second-Brain' took 0.103s
+2025-03-08T11:40:45.188Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T11:40:46.343Z - info: [ui] Executing push: git push origin main:main --progress (took 1.418s)
+2025-03-08T11:40:46.588Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T11:40:47.164Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T11:55:30.011Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 0.6s of which 0.0s paused, total 0.6s
+2025-03-08T15:26:24.097Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-08T15:26:24.100Z - info: [ui] [AppStore] found account: BwM17 (Berny)
+2025-03-08T15:26:24.124Z - info: [ui] [BranchPruner] Last prune took place 19 hours ago - skipping
+2025-03-08T15:26:24.376Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.5-arch1-1)
+2025-03-08T15:26:24.376Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-08T15:26:24.620Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-08T15:26:25.866Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T15:26:26.489Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T15:26:33.263Z - info: [ui] [Timing] Action 'create commit' for 'BwM17/second-Brain' took 0.064s
+2025-03-08T15:26:36.517Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T15:26:37.502Z - info: [ui] Executing push: git push origin main:main --progress (took 1.276s)
+2025-03-08T15:26:37.770Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T15:26:38.375Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T15:37:49.291Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 0.6s of which 0.0s paused, total 0.6s
+2025-03-08T15:40:34.678Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T15:40:53.537Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 19.138s)
+2025-03-08T15:40:53.803Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T15:40:56.964Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T15:40:59.535Z - info: [ui] Executing pull: git -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 2.831s)
+2025-03-08T15:40:59.939Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T17:12:17.328Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-08T17:12:17.330Z - info: [ui] [AppStore] found account: BwM17 (Berny)
+2025-03-08T17:12:17.352Z - info: [ui] [BranchPruner] Last prune took place 21 hours ago - skipping
+2025-03-08T17:12:17.456Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.5-arch1-1)
+2025-03-08T17:12:17.456Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-08T17:12:17.870Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-08T17:12:21.072Z - info: [ui] Executing getChangesFiles: git log e260e5834930d799e6e6138a0478a4bb953698b9 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 1.720s)
+2025-03-08T17:12:22.738Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T17:12:23.350Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-08T17:13:17.656Z - info: [main] Received possible protocol arguments: 2
+2025-03-08T17:15:33.525Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 0.6s of which 0.0s paused, total 0.6s
+2025-03-08T17:27:53.895Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-08T17:27:53.898Z - info: [ui] [AppStore] found account: BwM17 (Berny)
+2025-03-08T17:27:53.923Z - info: [ui] [BranchPruner] Last prune took place 21 hours ago - skipping
+2025-03-08T17:27:53.999Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.5-arch1-1)
+2025-03-08T17:27:54.000Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-08T17:27:54.405Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-08T17:29:49.141Z - error: [ui] Error getting token for 'GitHub - https://api.github.com'. Skipping.
+Error: The name is not activatable
+2025-03-08T17:29:49.148Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-08T17:29:49.175Z - info: [ui] [BranchPruner] Last prune took place 21 hours ago - skipping
+2025-03-08T17:29:49.258Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.5-arch1-1)
+2025-03-08T17:29:49.259Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'

@@ -1,0 +1,45 @@
+(defwidget volume []
+    (box 
+        :class "vol-bx"
+        :valign "center" 
+        :space-evenly false
+        (eventbox
+                :cursor "default"
+                :onhover "${eww} update vol_reveal=true"
+                :onhoverlost "${eww} update vol_reveal=false"
+            
+            (box 
+                :space-evenly false
+                (box
+                    :class "vol-icon"     
+                    (image
+                   :image-width 20
+                   :image-height 20
+                   :path "src/icons/volume.svg" 
+                    ) 
+                )
+                (revealer 
+                        :duration "400ms" 
+                        :transition "slideright"
+                        :reveal vol_reveal
+                        (scale 
+                            :value vol
+
+                            :onchange "scripts/setvolume {}"  
+                            :min 0
+
+                            :max 151   
+                            :flipped false 
+                        )
+                )
+            )
+           
+        )
+        (box
+            (label 
+                :class "vol_per"
+                :text "${vol}%"
+            )
+        ) 
+    )
+)

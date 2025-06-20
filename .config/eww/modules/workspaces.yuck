@@ -1,0 +1,11 @@
+;;Workspaces
+
+(defwidget workspace []
+    (box 
+        :space-evenly false
+        :class "workspace-outer"
+        (literal 
+            :content workspaces
+        )
+    )
+)  

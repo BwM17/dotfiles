@@ -1,0 +1,31 @@
+
+(defwidget bar[]
+  (centerbox  
+    (start) 
+    (workspace) 
+    (end)
+)) 
+
+
+(defwidget start[]
+  (box  
+    :hexpand "false" 
+    :space-evenly "false"
+    :class "start" 
+    :halign "start"  
+    (time)  
+    (player) 
+    (tray) 
+)) 
+
+(defwidget end[] 
+  (box  
+    :hexpand "false" 
+    :space-evenly "false"
+    :class "end" 
+    :halign "end"     
+    (github)
+    (docker)  
+    (volume)
+    (power)
+))

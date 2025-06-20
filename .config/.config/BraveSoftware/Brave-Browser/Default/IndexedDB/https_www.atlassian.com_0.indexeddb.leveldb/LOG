@@ -1,0 +1,15 @@
+2025/03/23-22:27:42.256 90f Reusing MANIFEST /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/23-22:27:42.256 90f Recovering log #4
+2025/03/23-22:27:42.257 90f Reusing old log /home/bluelotus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/000004.log 
+2025/03/23-22:38:23.138 910 Level-0 table #8: started
+2025/03/23-22:38:23.141 910 Level-0 table #8: 39407 bytes OK
+2025/03/23-22:38:23.143 910 Delete type=0 #4
+2025/03/23-22:38:23.143 910 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/03/23-22:38:23.143 910 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01"\x04\x02\x01\x09\x00m\x00a\x00r\x00k\x00e\x00t\x00i\x00n\x00g\x03\x00PkxN\yB\x00\x01$\x004\x00c\x00b\x003\x004\x00c\x003\x00c\x00-\x002\x00a\x004\x00f\x00-\x004\x006\x001\x00e\x00-\x009\x00b\x00f\x007\x00-\x004\x00e\x00c\x00d\x005\x00e\x009\x00b\x00f\x00b\x00b\x00f' @ 401 : 1
+2025/03/23-22:38:23.143 910 Compacting 1@1 + 1@2 files
+2025/03/23-22:38:23.145 910 Generated table #9@1: 56 keys, 1857 bytes
+2025/03/23-22:38:23.145 910 Compacted 1@1 + 1@2 files => 1857 bytes
+2025/03/23-22:38:23.147 910 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/23-22:38:23.147 910 Delete type=2 #8
+2025/03/23-22:38:23.147 910 Delete type=2 #5
+2025/03/23-22:38:23.147 910 Manual compaction at level-1 from '\x00\x01\x01"\x04\x02\x01\x09\x00m\x00a\x00r\x00k\x00e\x00t\x00i\x00n\x00g\x03\x00PkxN\yB\x00\x01$\x004\x00c\x00b\x003\x004\x00c\x003\x00c\x00-\x002\x00a\x004\x00f\x00-\x004\x006\x001\x00e\x00-\x009\x00b\x00f\x007\x00-\x004\x00e\x00c\x00d\x005\x00e\x009\x00b\x00f\x00b\x00b\x00f' @ 401 : 1 .. (end); will stop at (end)

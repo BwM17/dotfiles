@@ -1,0 +1,42 @@
+2025-03-09T17:24:09.039Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-09T17:24:09.135Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.5-arch1-1)
+2025-03-09T17:24:09.136Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-09T17:24:09.646Z - info: [ui] Stats reported.
+2025-03-09T17:24:13.147Z - info: [ui] Executing getChangesFiles: git log e260e5834930d799e6e6138a0478a4bb953698b9 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 2.082s)
+2025-03-09T17:24:21.744Z - info: [ui] Executing unstageAll: git reset -- . (took 1.544s)
+2025-03-09T17:24:21.864Z - info: [ui] [Timing] Action 'create commit' for 'BwM17/second-Brain' took 1.667s
+2025-03-09T17:24:29.607Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-03-09T17:24:29.610Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=24334ab5-bc6c-41e6-8257-2b62b11732e6
+2025-03-09T17:24:29.610Z - info: [ui] [SignInStore] account resolved
+2025-03-09T17:24:47.899Z - info: [main] Received possible protocol arguments: 3
+2025-03-09T17:24:47.899Z - info: [main] Processing protocol url
+2025-03-09T17:24:47.978Z - info: [main] Received possible protocol arguments: 2
+2025-03-09T17:24:47.982Z - info: [main] Processing protocol url
+2025-03-09T17:24:48.826Z - info: [ui] [AppStore] adding account BwM17 (Berny) to store
+2025-03-09T17:24:49.249Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-09T17:24:49.966Z - info: [ui] Executing push: git push origin main:main --progress (took 23.611s)
+2025-03-09T17:24:50.219Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-09T17:24:50.906Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-09T19:47:38.658Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-09T19:47:38.660Z - info: [ui] [AppStore] found account: BwM17 (Berny)
+2025-03-09T19:47:38.686Z - info: [ui] [BranchPruner] Last prune took place 2 hours ago - skipping
+2025-03-09T19:47:39.029Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.5-arch1-1)
+2025-03-09T19:47:39.029Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-09T19:47:39.185Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-09T19:47:43.686Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-09T19:47:44.287Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-09T19:47:49.427Z - info: [ui] [Timing] Action 'create commit' for 'BwM17/second-Brain' took 0.081s
+2025-03-09T19:47:51.084Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-09T19:47:52.073Z - info: [ui] Executing push: git push origin main:main --progress (took 1.243s)
+2025-03-09T19:47:52.314Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-09T19:47:52.888Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-09T20:01:33.272Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-03-09T20:01:33.275Z - info: [ui] [AppStore] found account: BwM17 (Berny)
+2025-03-09T20:01:33.300Z - info: [ui] [BranchPruner] Last prune took place 3 hours ago - skipping
+2025-03-09T20:01:33.715Z - info: [ui] launching: 3.4.8-linux1 (Linux 6.13.5-arch1-1)
+2025-03-09T20:01:33.715Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-03-09T20:01:33.865Z - info: [ui] Subscribed 'BwM17' to Alive channel
+2025-03-09T20:01:43.794Z - info: [ui] [Timing] Action 'create commit' for 'BwM17/second-Brain' took 0.183s
+2025-03-09T20:01:45.557Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-09T20:01:46.367Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-03-09T20:01:46.967Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
