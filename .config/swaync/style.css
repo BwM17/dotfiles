@@ -213,7 +213,7 @@
 }
 
 .widget-dnd {
-  background: @bg-alt;
+  background: @bg-alt; 
   padding: 10px 20px;
   margin: 5px 10px;
   border-radius: 16px;
@@ -222,19 +222,19 @@
 }
 
 .widget-dnd > switch {
-  border-radius: 16px;
-  background: @bg;
+  border-radius: 50px;  
+  background: @bg; 
 }
 
 .widget-dnd > switch:checked {
-  background: @purple;
+  background: @red;
   border: 1px solid @bg;
 }
 
 .widget-dnd > switch slider,
 .widget-dnd > switch:checked slider {
-  background: @bg;
-  border-radius: 16px;
+  background: @blue;
+  border-radius: 50px;
 }
 
 .widget-label {

@@ -1,53 +1,58 @@
 # My Dotfiles
 
 #### Todo
+
 > - [x] kitty config
-> - [x] hyprland config  
-> - [x] .zshrc 
+> - [x] hyprland config
+> - [x] .zshrc
 > - [x] tmux
 > - [x] starship
 > - [x] rofi
 > - [ ] neovim
 > - [ ] nevim Docs
-> - [x] finish migration script  
-> - [ ] finish swaync 
-> - [ ] eww stacking, widgets 
-> - [ ] install script 
+> - [x] finish migration script
+> - [ ] finish swaync
+> - [x] eww stacking, widgets
+> - [ ] install script
 > - [ ] banana Cursor, fonts, icons ...
+> - [ ] blinigify README
 
-### Required 
+### Required
+
 jq<br>  
-bc<br> 
-fzf<br> 
-git<br> 
+bc<br>
+fzf<br>
+git<br>
 yazi<br>
 
-# Setup 
+# Setup
 
 ```Bash
 gnu stow .
 chmod +x install.sh
 ./install.sh
-``` 
+```
+
 # Neovim
+
 ##### WIP will be added soon
 
+# ZSH
 
-# ZSH  
+### Navigation
 
-### Navigation   
-Navigation is done by using vim keys: <br> 
-[zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) 
+Navigation is done by using vim keys: <br>
+[zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode)
 
-### Keybinds 
+### Keybinds
+
 To find a specific entry in history file: <br>
-ctrl + r<br>  
+ctrl + r<br>
 
-For Suggestions<br> 
+For Suggestions<br>
 press [TAB] and navigate with [TAB] through the suggestion
 
-
-# Tmux 
+# Tmux
 
 [prefix] = ctrl + b
 
@@ -93,10 +98,22 @@ To manually install the plugin manager run
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-**install plugins** 
+**install plugins**
 
 ```bash
-tmux source-file ~/.tmux.conf 
+tmux source-file ~/.tmux.conf
 ```
 
-In side tmux press *[prefix] + shift + i*
+In side tmux press _[prefix] + shift + i_
+
+# Neovim
+
+### Plugins
+
+### Color highlighting (treesitter)
+
+neovim will automatically detect the current language and install the required plugin
+
+### Linting and Formating
+
+keep in mind to use :Mason to install linters and formatters

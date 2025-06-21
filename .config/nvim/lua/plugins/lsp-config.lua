@@ -16,9 +16,9 @@ return {
           "lua_ls",
           "pyright",
           "nil_ls",
-          "bashls",
-          "omnisharp",
-          "clangd",
+          "bashls", 
+          --"omnisharp"
+          --"clangd",
           "gopls",
         }, 
       })
@@ -35,8 +35,8 @@ return {
       lspconfig.pyright.setup({})
       lspconfig.nil_ls.setup({})
       lspconfig.bashls.setup({})
-      lspconfig.omnisharp.setup({})
-      lspconfig.clangd.setup({})
+      --lspconfig.omnisharp.setup({})
+      --lspconfig.clangd.setup({})
       lspconfig.gopls.setup({})
 
       -- keybindings

@@ -37,7 +37,7 @@
               ))   
             (button 
               :class "sus-btn" 
-              :onclick "systemctl hibernate" 
+              :onclick "systemctl suspend"  
               (image
                 :path "src/icons/moon.svg" 
                 :image-width 20
@@ -45,7 +45,7 @@
               ))   
             (button 
               :class "lock-btn" 
-              :onclick "systemctl hibernate" 
+              :onclick "hyprlock"  
               (image
                 :path "src/icons/lock.svg" 
                 :image-width 20
@@ -53,7 +53,7 @@
               )) 
             (button 
               :class "reb-btn" 
-              :onclick "systemctl hibernate" 
+              :onclick "systemctl reboot" 
               (image
                 :path "src/icons/rotate-ccw.svg" 
                 :image-width 20

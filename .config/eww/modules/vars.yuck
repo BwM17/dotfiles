@@ -1,5 +1,6 @@
 ;;vars 
-(defvar eww "/usr/bin/eww -c $HOME/.config/eww/ ") 
+ 
+(defvar eww "eww -c $HOME/.config/eww/ ")    
 (defvar title_reveal false) 
 (defvar pow_reveal false)
 (defvar vol_reveal false)

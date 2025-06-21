@@ -6,7 +6,8 @@ return {
 
   config = function()  
     local config = require("nvim-treesitter.configs")
-    config.setup({
+    config.setup({ 
+      auto_install = true;
       ensure_installed = { 
         --Section Web
         "javascript",  
