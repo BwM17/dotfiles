@@ -1,4 +1,4 @@
-# Dotfiles
+# Dotfiles [WIP]
 
 Development focused, easy to setup dotfiles
 
@@ -8,8 +8,7 @@ Development focused, easy to setup dotfiles
 
 > - [ ] neovim, Debugger
 > - [ ] finish swaync
-> - [ ] eww launcher
-> - [ ] install script
+> - [ ] eww launcher, github script
 > - [ ] banana Cursor, fonts, icons ...
 > - [ ] blinigify README
 
