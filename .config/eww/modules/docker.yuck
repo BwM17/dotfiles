@@ -1,0 +1,17 @@
+
+(defwidget docker[]
+  (box 
+    :class "docker-bx"
+    :orientation "h" 
+    (image
+      :class "docker-icon" 
+      :path "./src/icons/docker.svg"
+      :image-height 25
+      :image-width 25
+    ) 
+    (label 
+      :class "docker-active"
+      :text docker
+    )
+  )
+)

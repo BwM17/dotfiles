@@ -1,0 +1,17 @@
+
+.docker-bx { 
+  background-color: $background-alt; 
+  margin: 0 0.35rem; 
+  border-radius: 0.45rem;
+}  
+
+.docker-icon {
+  background-color: $color_blue;  
+  padding: 0 0.3rem;
+  border-radius: 0.45rem 0 0 0.45rem; 
+} 
+
+.docker-active {
+  font-weight: bolder;
+
+}

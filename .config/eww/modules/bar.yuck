@@ -1,0 +1,52 @@
+
+(defwidget bar[]
+  (centerbox  
+    (start) 
+    (workspace) 
+    (end)
+))  
+
+(defwidget laptop_bar[]
+  (centerbox 
+    (start)  
+    (workspace)
+    (laptop_end)
+))
+
+
+(defwidget start[]
+  (box  
+    :hexpand "false" 
+    :space-evenly "false"
+    :class "start" 
+    :halign "start"  
+    (time)  
+    (player) 
+    (tray) 
+)) 
+
+(defwidget end[] 
+  (box  
+    :hexpand "false" 
+    :space-evenly "false"
+    :class "end" 
+    :halign "end"     
+    (github)
+    (docker)  
+    (volume) 
+    (power)
+))  
+
+
+(defwidget laptop_end[]  
+  (box  
+    :hexpand "false" 
+    :space-evenly "false"
+    :class "end" 
+    :halign "end"     
+    (github)
+    (docker)  
+    (volume) 
+    (battery)
+    (power)
+)) 

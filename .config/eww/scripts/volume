@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+ wpctl get-volume @DEFAULT_AUDIO_SINK@ | awk '/Volume:/ {printf("%.0f\n", $2 * 100)}'

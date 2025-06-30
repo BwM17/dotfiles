@@ -1,0 +1,17 @@
+;; Windows
+(include "modules/windows.yuck")   
+
+;;parent modules 
+(include "modules/vars.yuck") 
+(include "modules/bar.yuck")
+
+;;modules 
+(include "modules/time.yuck")
+(include "modules/player.yuck")     
+(include "modules/workspaces.yuck")  
+(include "modules/docker.yuck")  
+(include "modules/github.yuck") 
+(include "modules/tray.yuck")  
+(include "modules/volume.yuck")
+(include "modules/power.yuck")  
+(include "modules/battery.yuck")

@@ -1,0 +1,11 @@
+(defwidget time[] 
+    (box  
+        (button
+            :class "time"  
+            :onclick "scripts/launch \"caltim\""   
+            (label
+                :text time
+            )  
+        )
+    ) 
+)

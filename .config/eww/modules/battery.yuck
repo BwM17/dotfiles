@@ -1,0 +1,15 @@
+
+
+(defpoll bat :interval "2s" "acpi -b | awk '{print substr($4, 1, length($4)-2)}'")
+
+(defwidget battery[]
+  (box    
+    :class "bat_outer"
+    (circular-progress  
+      :class "bat_bar"
+      :value bat  
+      :thickness 2
+      (label 
+        :class "bat_label"
+        :text bat 
+))))

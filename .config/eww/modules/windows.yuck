@@ -1,0 +1,34 @@
+;;windows 
+
+;;bar
+(defwindow bar 
+    :monitor 0
+    :geometry ( geometry :x "0%"
+                         :y "0%"  
+                         :width "100%"  
+                         :height "40px"
+                         :anchor "top center" )  
+    :namespace "eww"
+    :stacking "fg"   
+    :exclusive true
+    (bar)
+) 
+
+
+(defwindow laptop_bar  
+    :monitor 0
+    :geometry ( geometry :x "0%"
+                         :y "0%"  
+                         :width "100%"  
+                         :height "40px"
+                         :anchor "top center" )  
+    :namespace "eww"
+    :stacking "fg"    
+    :exclusive true
+    (laptop_bar)
+) 
+
+
+
+  
+

@@ -1,0 +1,69 @@
+
+(defwidget power []
+  (box 
+    :class "power-bx"
+    :valign "center" 
+    :halign "end"
+    :space-evenly false 
+    :vexpand false 
+    (eventbox 
+      :cursor "default"
+      :onhover "${eww} update pow_reveal=true"
+      :onhoverlost "${eww} update pow_reveal=false" 
+      (box
+        :space-evenly false 
+        (revealer
+          :duration "400ms"
+          :transition "slideright"
+          :reveal pow_reveal 
+          (box
+            :class "btn-bx"
+            :hexpand false
+            (button 
+              :class "exi-btn" 
+              :onclick "hyprctl dispatch exit" 
+              (image  
+                :path "src/icons/exit.svg"   
+                :image-width 20
+                :image-height 20 
+              )) 
+            (button 
+              :class "hib-btn" 
+              :onclick "systemctl hibernate" 
+              (image
+                :path "src/icons/save.svg"  
+                :image-width 20
+                :image-height 20 
+              ))   
+            (button 
+              :class "sus-btn" 
+              :onclick "systemctl suspend"  
+              (image
+                :path "src/icons/moon.svg" 
+                :image-width 20
+                :image-height 20 
+              ))   
+            (button 
+              :class "lock-btn" 
+              :onclick "hyprlock"  
+              (image
+                :path "src/icons/lock.svg" 
+                :image-width 20
+                :image-height 20 
+              )) 
+            (button 
+              :class "reb-btn" 
+              :onclick "systemctl reboot" 
+              (image
+                :path "src/icons/rotate-ccw.svg" 
+                :image-width 20
+                :image-height 20 
+              )) 
+          ))
+        (box :class "pow-btn" 
+          (button :onclick "systemctl poweroff"
+            (image 
+              :path "src/icons/power.svg" 
+              :image-width 20
+              :image-height 20  
+            )))))))

@@ -1,0 +1,27 @@
+@import "styles/themes/tokyo_night.scss";
+
+* {
+  all: unset;
+  font-family: "JetBrainsMono Nerd Font";
+}
+
+@import "./styles/workspaces.scss";
+@import "./styles/time.scss";
+@import "./styles/player.scss";
+@import "./styles/power.scss";
+@import "./styles/docker.scss";
+@import "./styles/github.scss";
+@import "./styles/tray.scss";
+@import "./styles/slider.scss";
+@import "./styles/battery.scss";
+
+.bar,
+.laptop_bar {
+  background-color: $background;
+  color: $foreground;
+}
+
+.start,
+.end {
+  padding: 0.4rem;
+}

@@ -1,0 +1,18 @@
+;;vars 
+ 
+(defvar eww "eww -c $HOME/.config/eww/ ")    
+(defvar title_reveal false) 
+(defvar pow_reveal false)
+(defvar vol_reveal false)
+
+;;listner 
+(deflisten workspaces "scripts/workspaces")
+
+;;polls
+(defpoll time :interval "1s" "date '+%H:%M'")  
+(defpoll title :interval "1s" "scripts/player --title")  
+(defpoll vol :interval "1s" "scripts/volume") 
+(defpoll artist :interval "1s" "scripts/player --artist") 
+(defpoll player-icon :interval "1s" "scripts/player --icon") 
+(defpoll docker :interval "15min" "docker ps -q | wc -l")  
+

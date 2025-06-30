@@ -1,0 +1,22 @@
+.works {
+  background-color: $background-alt;
+  border-radius: 0.45rem;
+  padding: 0.4rem;
+  margin: 0 1rem;
+}
+
+.active {
+  border-radius: 1rem;
+  background-color: $background; 
+  margin: 0 0.2rem;
+  padding: 0 0.7rem;
+  transition: 1s;
+}
+
+.focused {
+  border-radius: 1rem;
+  background: $color_blue; 
+  margin: 0 0.2rem;
+  padding: 0 1.3rem;
+  transition: 1s;
+}
